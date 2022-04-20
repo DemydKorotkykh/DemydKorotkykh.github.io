@@ -67,8 +67,8 @@ header.active .head-top .top-menu {
   position: fixed;
   top: 100px;
   left: 50%;
-  margin-left: -100px;
-  width: 200px;
+  margin-left: -200px;
+  width: 20px;
   height: auto;
   text-align: center;
   opacity: 1!important;
@@ -159,7 +159,7 @@ header .head-top .menu-btn:hover span {
 }
 
 header .head-top .top-menu ul li {
-  margin-left: 50px;
+  margin-left: 20px;
   display: inline-block;
   vertical-align: top;
   transition: color 0.3s ease 0s;
