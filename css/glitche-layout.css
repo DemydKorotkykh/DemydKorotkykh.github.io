@@ -67,8 +67,8 @@ header.active .head-top .top-menu {
   position: fixed;
   top: 100px;
   left: 50%;
-  margin-left: -200px;
-  width: 20px;
+  margin-left: -100px;
+  width: 200px;
   height: auto;
   text-align: center;
   opacity: 1!important;
